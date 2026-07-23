@@ -1,0 +1,6 @@
+{
+  "name": "SnapVerse Photo Platform",
+  "description": "A modern, high-performance photo-sharing social platform for image creation, discovery, reactions, and community interaction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
